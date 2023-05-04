@@ -1,4 +1,9 @@
 # EmployeeManagementSystem
+
+Screenshots
+
+![Screenshot (101)](https://user-images.githubusercontent.com/123728670/236123285-d043591c-9edc-4f2f-8467-6d18c1f049d1.png)
+
 ## Features
 
 - Add, edit, and delete employee records
@@ -36,5 +41,4 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 Please make sure to update tests as appropriate.
 
- 
 
